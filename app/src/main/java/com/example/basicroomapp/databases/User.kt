@@ -6,6 +6,7 @@ class User(USER_ID: String,
            USER_WEIGHT: Double,
            USER_EMAIL: String,
            user_password: String) {
+
     val USER_ID: String = USER_ID
     val USER_NAME: String = USER_NAME
     val USER_HEIGHT: Double = USER_HEIGHT
